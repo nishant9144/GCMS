@@ -51,7 +51,7 @@ The object_by_id tree has nodes which holds key as object_id and value as bin_id
 The bin_by_id has key as its ID and value as the bin.
 The bin_by_capacity has nodes which has key as the capacity of the bin 	and value as a inner tree which has key as the Id of the bin with the same 	available_space and value as the bin.
 
-##Time and Space Complexity Analysis
+## Time and Space Complexity Analysis
 n represents the number of objects and m represents the number of bins.
 
 - The program has space complexity as O(n + m)
