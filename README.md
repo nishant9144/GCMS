@@ -4,7 +4,11 @@ This repository contains the solution for Galactic Cargo Management System (GCMS
 
 ## Contents
 
-[TOC]
+- [Background](#background)
+- [Cargo Color Rules](#cargo-color-rules)
+- [Project Structure](#project-structure)
+- [Solution](#solution)
+- [Time and Space Complexity Analysis](#time-and-space-complexity)
 
 ## Background
 In the vast expanse of the galaxy, interstellar shipping companies face the challenge of efficiently packing cargo into space cargo bins. This system assigns unique integer IDs to bins and objects and efficiently handles the cargo based on its color.
